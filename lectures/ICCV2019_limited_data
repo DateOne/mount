@@ -12,3 +12,5 @@ Domain Adaptation Tutorial
 1.classic: learn a representation that cannot distinguish domains
 2.unsupervised image to image translation, CyCADA
 3.rebostness as an unsupervesed objective: expanding decision boundary, DIRT-T, VADA
+4.weak alignment (strong-weak distribution alignment for adaptive object detection)
+5.class-conditional distribution alignment: adversarial classifier discrepancy (adversarial dropout regularization), classifier entropy (semi-supervised domain adaptation via minimax entropy)
