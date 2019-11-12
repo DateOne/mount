@@ -1,2 +1,4 @@
 1.life-long learning: progressive neural networks, net2net, taskonomy
-2.network compression: lottery ticket hypothesis, rethinking the value of network pruning, knowledge distillation (knowledge distillation, do deep nets really need to be deep),multi-scale dense networks
+2.network compression: lottery ticket hypothesis, rethinking the value of network pruning, 
+knowledge distillation (knowledge distillation, do deep nets really need to be deep),
+multi-scale dense networks
