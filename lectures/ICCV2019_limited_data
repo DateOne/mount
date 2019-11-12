@@ -1,7 +1,12 @@
 A Tutorial on Few-Shot Learning
 1.human-level concept learning through probabilistic program induction
-2.related work: transfer learning (DeCAF, CNN Features off-the-shelf), one-shot learning, meta-learning (gradient-based hyper-parameter optimization through reversible learning, NAS2017, scalable Bayesian optimization using deep neural networks)
-3.recent approaches: TADAM (visual reasoning with a general conditioning layer), MetaOptNet (the performance is amazing), Proto-MAML (interesting), zero-shot learning, semi-supervised few-shot learning (meta-learning for semi-supervised few-shot classification), revisit Bayesian techniques
+2.related work: transfer learning (DeCAF, CNN Features off-the-shelf), one-shot learning, 
+meta-learning (gradient-based hyper-parameter optimization through reversible learning, 
+NAS2017, scalable Bayesian optimization using deep neural networks)
+3.recent approaches: TADAM (visual reasoning with a general conditioning layer), 
+MetaOptNet (the performance is amazing), Proto-MAML (interesting), zero-shot learning, 
+semi-supervised few-shot learning (meta-learning for semi-supervised few-shot classification),
+revisit Bayesian techniques
 4.other considerations: backbone is more important than the method; contextual embedding (?)
 
 Augmentation and Synthesis for Few-Shot Learning
@@ -13,4 +18,5 @@ Domain Adaptation Tutorial
 2.unsupervised image to image translation, CyCADA
 3.rebostness as an unsupervesed objective: expanding decision boundary, DIRT-T, VADA
 4.weak alignment (strong-weak distribution alignment for adaptive object detection)
-5.class-conditional distribution alignment: adversarial classifier discrepancy (adversarial dropout regularization), classifier entropy (semi-supervised domain adaptation via minimax entropy)
+5.class-conditional distribution alignment: adversarial classifier discrepancy (adversarial 
+dropout regularization), classifier entropy (semi-supervised domain adaptation via minimax entropy)
