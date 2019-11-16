@@ -1,0 +1,13 @@
+Orthogonal Gradient Descent for Continual Learning
+Pros
+This paper uses gradients of model (from formal tasks) to restrict the direction of new task's
+gradients of loss. Simplicities like OGD-GTL have been employed in actual implementation.
+Besides, the illustration of stochastic gradient descent and orthogonal gradient descent is
+interesting.
+Cons
+1. Don't it still has to perserve some data (of gradients)?
+2. Benchmarking orthogonal gradient descent with SGD is interesting. But I'm sure there will 
+be a more appropriate method to handle non-iid data.
+Others
+The related work section of this paper remains me how facinating is the development of
+incremental learning. Definitely should check on that later.
