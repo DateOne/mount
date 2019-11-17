@@ -10,6 +10,7 @@ this is a repository recording papars, lectures or other knowledge I learned (st
 * [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 * [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+
 19, Nov 18
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](https://arxiv.org/abs/1502.03492)
 * [Scalable Bayesian Optimization Using Deep Neural Networks](https://arxiv.org/abs/1502.05700)
