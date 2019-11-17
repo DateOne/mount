@@ -8,6 +8,41 @@ Cons
 1. Don't it still has to perserve some data (of gradients)?
 2. Benchmarking orthogonal gradient descent with SGD is interesting. But I'm sure there will 
 be a more appropriate method to handle non-iid data.
+3. how do we get gradients of model actually (with no loss)?
 Others
 The related work section of this paper remains me how facinating is the development of
 incremental learning. Definitely should check on that later.
+
+Progressive Neural Networks
+Pros
+This paper grows neural networks (by learning lateral connections) to leverage transfer and 
+avoiding catastropic forgetting. It uses average pertubation sensitivity and average fisher 
+sensibility to study transferred features, both of which being inspiring especially the one
+about fisher information. Besides, it also makes some statements about knowledge
+distillation and that relationship between tasks can be orthogonal and adversarial.
+Definitely gonna dig into that!
+Others
+Sadly, I can't understand fisher information. I will read more papers later.
+
+TASK2VEC: Task Embedding for Meta-Learning
+You know what? My first thing tomorrow is learning Fisher information.
+
+The Lottery Ticket Hypothsis: Finding Sparse, Trainable Neural Networks
+Pros
+A very very very interesting hypothesis
+Others
+How can I win this lottery?
+
+Rethinking the Value of Network Pruning
+Others
+Very toubling thinking of network pruning which ends up being contradictory to the last paper.
+I might need more thinking about these two papers.
+
+Distilling Knowledge in a Neural Network
+Pros
+This paper employs predictions learned from bigger models as objective function to distill 
+knowledge into a smaller model.
+Cons
+Not con but god this article in easy.
+Others
+Objective function sa true objective function might be more important than we thought.
