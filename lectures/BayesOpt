@@ -1,0 +1,2 @@
+1. Bayesian Optimization basic idea: Gaussian process posterior on the objective function, aquisition function.
+2. Gaussian process posterior: 
