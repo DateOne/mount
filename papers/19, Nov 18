@@ -1,4 +1,30 @@
-Gradient-based Hyperparameter Optimization through Reversible Learning
-Seem to be irrelevant.
+#Gradient-based Hyperparameter Optimization through Reversible Learning
+haven't seen it.
 
-Scalable Bayesian Optimization Using Deep Neural Networks
+#Scalable Bayesian Optimization Using Deep Neural Networks
+haven't seen it.
+
+#TADAM: Task dependent adaptive metric for improved few-shot learning
+##pros
+1. this paper proposals to scale the distance metric by a learnable (skeptical) temperature.
+Besides, a task embedding network which predicts parameters of task-conditioned feature 
+extractor (parameters of FILM conditional layer, conditional batch normalization),taking 
+the mean of class prototypes as the task representation.
+2. the usage of temperature is so elegant, useful and exciting!
+##cons
+1. it is absurb to take mean of class protocols as task representation (or is it?)
+2. it is obvious that predicting the temperature in this task embedding network would make
+a more elegant paper. The only reason I can think of that the author didn't do that is 
+because it can't work, which sheds suspect to its co-training method.
+3. weird co-training.
+##others
+1. this temperature is a very interesting idea, and deserves my further study.
+2. its way of changing neural network architecture (including hyper-parameters) is much simpler
+than predicting parameters.
+
+##Meta-Learning with Differentiable Convex Optimization
+what the fuck is that?
+
+##Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
+a new dataset.
+
