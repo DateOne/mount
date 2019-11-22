@@ -22,6 +22,26 @@ this is a repository recording papars, lectures or other knowledge I learned (st
 * [Adversarial Dropout Regularization](https://arxiv.org/abs/1711.01575)
 * [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/abs/1712.02560)
 
+19, Nov 21
+* [A General and Adaptive Robust Loss Function](https://arxiv.org/abs/1701.03077)
+* [FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/abs/1709.07871)
+* [Rapid Adaptation with Conditionally Shifted Neurons](https://arxiv.org/abs/1712.09926)
+* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
+* [Neurogenesis deep learning: Extending deep networks to accommodate new classes](https://ieeexplore.ieee.org/document/7965898)
+* [Reconciling meta-learning and continual learning with online mixtures of tasks](https://arxiv.org/abs/1812.06080)
+* [Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting](https://arxiv.org/abs/1904.00310)
+* [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
+* [Functional Regularisation for Continual Learning](https://arxiv.org/abs/1901.11356)
+* [Progress & Compress: A scalable framework for continual learning](https://arxiv.org/abs/1805.06370)
+* [Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher](https://arxiv.org/abs/1902.03393)
+* [Continual Learning Through Synaptic Intelligence](https://arxiv.org/abs/1703.04200)
+* [Overcoming Catastrophic Forgetting by Incremental Moment Matching](https://arxiv.org/abs/1703.08475)
+* [Memory Aware Synapses: Learning what (not) to forget](https://arxiv.org/abs/1711.09601)
+* [Attention-Based Structural-Plasticity](https://arxiv.org/abs/1903.06070)
+* [Overcoming Catastrophic Interference by Conceptors](https://arxiv.org/abs/1707.04853)
+* [Continuous Learning of Context-dependent Processing in Neural Networks](https://arxiv.org/abs/1810.01256)
+
+
 ## lectures
 19, Nov 11
 * Next Step of Machine Learning (Hung-yi Lee, 2019)
