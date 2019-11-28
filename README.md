@@ -40,6 +40,7 @@ this is a repository recording papars, lectures or other knowledge I learned (st
 * [Attention-Based Structural-Plasticity](https://arxiv.org/abs/1903.06070)
 * [Overcoming Catastrophic Interference by Conceptors](https://arxiv.org/abs/1707.04853)
 * [Continuous Learning of Context-dependent Processing in Neural Networks](https://arxiv.org/abs/1810.01256)
+* [Mutual Exclusivity as a Challenge for Deep Neural Networks](https://openreview.net/pdf?id=S1lvn0NtwH)
 
 
 ## lectures
