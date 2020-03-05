@@ -7,3 +7,5 @@
 * **Math101: Stochastic Process and Convex Optimization**
 * **Research101: Paper Reading**
 * **Research201: NIPS2020**
+* **Game101: Glory of Kings**
+* **Music101: Sing**
