@@ -5,4 +5,4 @@
 * DeepBayes 2019
 * watermelon book
 ### credits
-* 3 credits = 2 weeks * 24 hours per week / 16 hours per credit
+* 2.25 credits = 2 weeks * 18 hours per week / 16 hours per credit
